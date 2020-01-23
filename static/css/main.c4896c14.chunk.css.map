@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AACA,eACE,UAAW,CACX,WAAY,CACZ,gBACF,CAEA,KACE,WACF,CAEA,WACE,aACF","file":"main.c4896c14.chunk.css","sourcesContent":["\n.grid-card-img{\n  width: 100%;\n  height: 10vw;\n  object-fit: cover;\n}\n\n.col{\n  margin: 2% 0;\n}\n\n.card-body{\n  margin: 0 auto;\n}\n"]}
