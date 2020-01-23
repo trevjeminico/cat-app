@@ -129,7 +129,7 @@ class CatList extends Component {
     render() { 
         return (                     
                 <div className="container">
-                    <h1>Cat Browser</h1>
+                    <h1>Cat Browser!</h1>
                     <div className="col-lg">
                         { this.RenderCatList() }
                         { this.RenderSelectedCatBreed() }
